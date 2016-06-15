@@ -1,0 +1,13 @@
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\obj\Debug\SpecFlowDeneme.csprojResolveAssemblyReference.cache
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\Default.srprofile
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecFlowDeneme.dll.config
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecFlowDeneme.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecFlowDeneme.pdb
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\nunit.framework.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecRun.SpecFlowPlugin.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\TechTalk.SpecRun.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\nunit.framework.xml
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecRun.SpecFlowPlugin.pdb
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\obj\Debug\SpecFlowDeneme.dll
+c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\obj\Debug\SpecFlowDeneme.pdb

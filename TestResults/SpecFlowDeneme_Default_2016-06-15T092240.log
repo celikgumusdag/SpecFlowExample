@@ -1,0 +1,63 @@
+﻿Discovering target: Default
+Discovering tests from assembly: c:\users\celik.gumusdag\documents\visual studio 2013\Projects\SpecFlowDeneme\SpecFlowDeneme\bin\Debug\SpecFlowDeneme.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlowDeneme/Default - 
+#1: Default - 
+#2: SpecFlowDeneme - 
+#3: Calculator - 
+#4: Add two numbers - TestAssembly:SpecFlowDeneme/Feature:Calculator/Scenario:Add+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread
+Thread#0:Scheduler: using testitem #4 for thread
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for SpecFlowDeneme, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\celik.gumusdag\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.4.0\tools\TechTalk.SpecRun.Framework.Executor.dll
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:B:Given I have entered 50 into the calculator
+Thread#0:T:Given Reading
+Thread#0:T:pending: Steps.GivenIHaveEnteredİntoTheCalculator(50)
+Thread#0:B:And I have also entered 70 into the calculator
+Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+Thread#0:T:        [Given(@"I have also entered (.*) into the calculator")]
+Thread#0:T:public void GivenIHaveAlsoEnteredİntoTheCalculator(int p0)
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:B:When I press add
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: No matching step definition found for one or more steps.
+Thread#0:T:using System;
+Thread#0:T:using TechTalk.SpecFlow;
+Thread#0:T:namespace MyNamespace
+Thread#0:T:{
+Thread#0:T:    [Binding]
+Thread#0:T:    public class StepDefinitions
+Thread#0:T:    {
+Thread#0:T:        [Given(@"I have also entered (.*) into the calculator")]
+Thread#0:T:public void GivenIHaveAlsoEnteredİntoTheCalculator(int p0)
+Thread#0:T:{
+Thread#0:T:    ScenarioContext.Current.Pending();
+Thread#0:T:}
+Thread#0:T:    }
+Thread#0:T:}
+Thread#0:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread 
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 0,154 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0
