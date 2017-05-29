@@ -2,7 +2,7 @@
 
 Description
 ------------
-Simple implementation of Specflow Example Automation by using Selenium with C#
+Simple implementation of Specflow Test Automation by using Selenium with C#
 
 About
 ------------
